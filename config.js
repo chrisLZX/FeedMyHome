@@ -31,7 +31,7 @@ switch(idioma){
 
 //Number of cities to display 1 or 2
 var numLoc=2;
-var locale = 'new york, ny';
+var locale = 'barcelona, spain';
 var locale2 = 'tarragona, spain';
 
 //Reading Rss in order or random. order=0 | random=1
