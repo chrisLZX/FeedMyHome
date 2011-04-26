@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<adc_Database>
+
+	<WatchWarnAreas zone="Z" county="C"/>
+	<GmtDiff DayLightSavings="1">
+		8
+	</GmtDiff>
+	<CurrentConditions>
+		<City>
+			Quezon City
+		</City>
+		<State>
+			
+		</State>
+		<DaylightSavingsActive/>
+		<Time>
+			15:26
+		</Time>
+		<Pressure state="Decreasing">
+			29.68
+		</Pressure>
+		<Temperature>
+			86
+		</Temperature>
+		<RealFeel>
+			99
+		</RealFeel>
+		<Humidity>78%</Humidity>
+		<WeatherText>
+			PARTLY SUNNY
+		</WeatherText>
+		<WeatherIcon>
+			04
+		</WeatherIcon>
+		<WindSpeed>
+			16
+		</WindSpeed>
+		<WindDirection>
+			W
+		</WindDirection>
+		<Visibility>
+			10
+		</Visibility>
+		<Precip>
+			0.00
+		</Precip>
+		<UVIndex>
+			4
+		</UVIndex>
+		<Copyright>AccuWeather, Inc.</Copyright>
+	</CurrentConditions>
+	<AirAndPollen>
+		<Tree>N(0)</Tree>
+		<Weed>N(0)</Weed>
+		<Grass>N(0)</Grass>
+		<Mold>N(0)</Mold>
+		<AirQuality>G(0)</AirQuality>
+		<AirQualityType>
+			0
+		</AirQualityType>
+	</AirAndPollen>
+	<Planets>
+		<Sun rise="6:45" set="18:57"/>
+<Moon rise="18:48" set="7:13"/>
+<Mercury rise="8:31" set="20:15"/>
+<Venus rise="8:33" set="20:24"/>
+<Mars rise="8:26" set="20:18"/>
+<Jupiter rise="14:36" set="1:50"/>
+<Saturn rise="6:08" set="18:30"/>
+<Uranus rise="18:47" set="6:43"/>
+<Neptune rise="17:09" set="4:43"/>
+<Pluto rise="13:28" set="0:56"/>
+
+	</Planets>
+	<Moon>
+		
+		<Phase date="9/9/2008" text="">
+			8
+		</Phase>
+		
+		<Phase date="9/10/2008" text="">
+			9
+		</Phase>
+		
+		<Phase date="9/11/2008" text="">
+			10
+		</Phase>
+		
+		<Phase date="9/12/2008" text="">
+			11
+		</Phase>
+		
+		<Phase date="9/13/2008" text="">
+			12
+		</Phase>
+		
+		<Phase date="9/14/2008" text="">
+			13
+		</Phase>
+		
+		<Phase date="9/15/2008" text="Full">
+			14
+		</Phase>
+		
+		<Phase date="9/16/2008" text="">
+			15
+		</Phase>
+		
+		<Phase date="9/17/2008" text="">
+			16
+		</Phase>
+		
+		<Phase date="9/18/2008" text="">
+			17
+		</Phase>
+		
+		<Phase date="9/19/2008" text="">
+			18
+		</Phase>
+		
+		<Phase date="9/20/2008" text="">
+			19
+		</Phase>
+		
+		<Phase date="9/21/2008" text="">
+			20
+		</Phase>
+		
+		<Phase date="9/22/2008" text="Last">
+			21
+		</Phase>
+		
+		<Phase date="9/23/2008" text="">
+			22
+		</Phase>
+		
+		<Phase date="9/24/2008" text="">
+			23
+		</Phase>
+		
+		<Phase date="9/25/2008" text="">
+			24
+		</Phase>
+		
+		<Phase date="9/26/2008" text="">
+			25
+		</Phase>
+		
+		<Phase date="9/27/2008" text="">
+			26
+		</Phase>
+		
+		<Phase date="9/28/2008" text="">
+			27
+		</Phase>
+		
+		<Phase date="9/29/2008" text="New">
+			1
+		</Phase>
+		
+		<Phase date="9/30/2008" text="">
+			0
+		</Phase>
+		
+		<Phase date="10/1/2008" text="">
+			1
+		</Phase>
+		
+		<Phase date="10/2/2008" text="">
+			2
+		</Phase>
+		
+		<Phase date="10/3/2008" text="">
+			3
+		</Phase>
+		
+		<Phase date="10/4/2008" text="">
+			4
+		</Phase>
+		
+		<Phase date="10/5/2008" text="">
+			5
+		</Phase>
+		
+		<Phase date="10/6/2008" text="">
+			6
+		</Phase>
+		
+		<Phase date="10/7/2008" text="First">
+			7
+		</Phase>
+		
+		<Phase date="10/8/2008" text="">
+			8
+		</Phase>
+		
+		<Phase date="10/9/2008" text="">
+			9
+		</Phase>
+		
+		<Phase date="10/10/2008" text="">
+			10
+		</Phase>
+		
+	</Moon>
+	<Forecast>
+		<UFDB>
+			
+		</UFDB>
+		
+		<day number="1">
+			<ObsDate>
+				9/9/2008
+			</ObsDate>
+			<DayCode>
+				Tuesday
+			</DayCode>
+			<TXT_Short>
+				Cloudy, thunderstorms; humid
+			</TXT_Short>
+			<TXT_Long>
+				Cloudy and very humid with thunderstorms
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				86
+			</High_Temperature>
+			<Low_Temperature>
+				77
+			</Low_Temperature>
+			<Real_Feel_High>
+				105
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				88
+			</Real_Feel_Low>
+			<WindSpeed>
+				1
+			</WindSpeed>
+			<WindDirection>
+				SW
+			</WindDirection>
+			<WindGust>
+				3
+			</WindGust>
+			<Max_UV>
+				4
+			</Max_UV>
+			<Rain_Amount>
+				0.16
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.16
+			</Precip_Amount>
+			<TStorm_Prob>
+				85
+			</TStorm_Prob>
+		</day>
+		
+		<day number="2">
+			<ObsDate>
+				9/10/2008
+			</ObsDate>
+			<DayCode>
+				Wednesday
+			</DayCode>
+			<TXT_Short>
+				Cloudy, thunderstorms; humid
+			</TXT_Short>
+			<TXT_Long>
+				Cloudy and very humid with thunderstorms
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				83
+			</High_Temperature>
+			<Low_Temperature>
+				78
+			</Low_Temperature>
+			<Real_Feel_High>
+				103
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				86
+			</Real_Feel_Low>
+			<WindSpeed>
+				2
+			</WindSpeed>
+			<WindDirection>
+				NW
+			</WindDirection>
+			<WindGust>
+				4
+			</WindGust>
+			<Max_UV>
+				4
+			</Max_UV>
+			<Rain_Amount>
+				0.24
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.24
+			</Precip_Amount>
+			<TStorm_Prob>
+				94
+			</TStorm_Prob>
+		</day>
+		
+		<day number="3">
+			<ObsDate>
+				9/11/2008
+			</ObsDate>
+			<DayCode>
+				Thursday
+			</DayCode>
+			<TXT_Short>
+				Clouds, thunderstorms; humid
+			</TXT_Short>
+			<TXT_Long>
+				Overcast and very humid with thunderstorms
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				86
+			</High_Temperature>
+			<Low_Temperature>
+				77
+			</Low_Temperature>
+			<Real_Feel_High>
+				103
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				84
+			</Real_Feel_Low>
+			<WindSpeed>
+				3
+			</WindSpeed>
+			<WindDirection>
+				WNW
+			</WindDirection>
+			<WindGust>
+				8
+			</WindGust>
+			<Max_UV>
+				4
+			</Max_UV>
+			<Rain_Amount>
+				0.29
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.29
+			</Precip_Amount>
+			<TStorm_Prob>
+				92
+			</TStorm_Prob>
+		</day>
+		
+		<day number="4">
+			<ObsDate>
+				9/12/2008
+			</ObsDate>
+			<DayCode>
+				Friday
+			</DayCode>
+			<TXT_Short>
+				Cloudy, thunderstorms; humid
+			</TXT_Short>
+			<TXT_Long>
+				Cloudy and very humid with thunderstorms
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				84
+			</High_Temperature>
+			<Low_Temperature>
+				77
+			</Low_Temperature>
+			<Real_Feel_High>
+				101
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				85
+			</Real_Feel_Low>
+			<WindSpeed>
+				3
+			</WindSpeed>
+			<WindDirection>
+				WNW
+			</WindDirection>
+			<WindGust>
+				5
+			</WindGust>
+			<Max_UV>
+				3
+			</Max_UV>
+			<Rain_Amount>
+				0.14
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.14
+			</Precip_Amount>
+			<TStorm_Prob>
+				73
+			</TStorm_Prob>
+		</day>
+		
+		<day number="5">
+			<ObsDate>
+				9/13/2008
+			</ObsDate>
+			<DayCode>
+				Saturday
+			</DayCode>
+			<TXT_Short>
+				Cloudy, thunderstorms; humid
+			</TXT_Short>
+			<TXT_Long>
+				Cloudy and very humid with thunderstorms
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				84
+			</High_Temperature>
+			<Low_Temperature>
+				77
+			</Low_Temperature>
+			<Real_Feel_High>
+				104
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				87
+			</Real_Feel_Low>
+			<WindSpeed>
+				1
+			</WindSpeed>
+			<WindDirection>
+				NW
+			</WindDirection>
+			<WindGust>
+				2
+			</WindGust>
+			<Max_UV>
+				4
+			</Max_UV>
+			<Rain_Amount>
+				0.09
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.09
+			</Precip_Amount>
+			<TStorm_Prob>
+				80
+			</TStorm_Prob>
+		</day>
+		
+		<day number="6">
+			<ObsDate>
+				9/14/2008
+			</ObsDate>
+			<DayCode>
+				Sunday
+			</DayCode>
+			<TXT_Short>
+				Cloudy, thunderstorms; humid
+			</TXT_Short>
+			<TXT_Long>
+				Cloudy and very humid with thunderstorms
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				85
+			</High_Temperature>
+			<Low_Temperature>
+				77
+			</Low_Temperature>
+			<Real_Feel_High>
+				105
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				88
+			</Real_Feel_Low>
+			<WindSpeed>
+				0
+			</WindSpeed>
+			<WindDirection>
+				ENE
+			</WindDirection>
+			<WindGust>
+				1
+			</WindGust>
+			<Max_UV>
+				4
+			</Max_UV>
+			<Rain_Amount>
+				0.08
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.08
+			</Precip_Amount>
+			<TStorm_Prob>
+				76
+			</TStorm_Prob>
+		</day>
+		
+		<day number="7">
+			<ObsDate>
+				9/15/2008
+			</ObsDate>
+			<DayCode>
+				Monday
+			</DayCode>
+			<TXT_Short>
+				A morning thunderstorm or two
+			</TXT_Short>
+			<TXT_Long>
+				A couple of thunderstorms around in the morning; still cloudy and very humid
+			</TXT_Long>
+			<WeatherIcon>
+				15
+			</WeatherIcon>
+			<High_Temperature>
+				87
+			</High_Temperature>
+			<Low_Temperature>
+				77
+			</Low_Temperature>
+			<Real_Feel_High>
+				105
+			</Real_Feel_High>
+			<Real_Feel_Low>
+				89
+			</Real_Feel_Low>
+			<WindSpeed>
+				1
+			</WindSpeed>
+			<WindDirection>
+				NNE
+			</WindDirection>
+			<WindGust>
+				3
+			</WindGust>
+			<Max_UV>
+				5
+			</Max_UV>
+			<Rain_Amount>
+				0.03
+			</Rain_Amount>
+			<Snow_Amount>
+				0.00
+			</Snow_Amount>
+			<Precip_Amount>
+				0.03
+			</Precip_Amount>
+			<TStorm_Prob>
+				50
+			</TStorm_Prob>
+		</day>
+		
+		
+	</Forecast>
+	
+	
+	<Copyright>Copyright 2008 AccuWeather.com </Copyright>
+	<Use>Apple Widget</Use>
+	<Redistribution>Redistribution Prohibited.</Redistribution>
+</adc_Database>
